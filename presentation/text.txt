@@ -1,0 +1,22 @@
+Co to:
+
+Github - Repository
+
+Docker technology
+
+ECS + S3 Bucket - Application Hosting
+
+
+AWS Codebuild - pipeline definition in the code
+
+Pipeline dla maina (można dla pull requesta)
+
+Może jakiś OWASP pokazać jak znaleźć jak dodać
+
+Jakiś prosty unit test
+
+5 minut jak to kiedyś wyglądało hostowanie aplikacji deployment
+
+różne domeny Cross Policy napenwo
+
+Generalnie w firmach środowiska są dużo bardziej skomplikowane 
